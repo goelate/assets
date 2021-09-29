@@ -1,3 +1,3 @@
-# assets
+# Assets
 
-assets for elate products
+Assets for Elate products
